@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+LIVE DEMO: https://vishnu200399.github.io/Movie_Recommendation_React/
+
 
 ## Available Scripts
 
